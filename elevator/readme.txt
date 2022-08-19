@@ -1,0 +1,1 @@
+if you want to play without scenario just wipe csv and let it be blank:)

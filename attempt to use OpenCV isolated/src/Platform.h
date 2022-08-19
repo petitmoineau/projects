@@ -1,0 +1,7 @@
+#pragma once
+
+#if defined (_WIN32)
+#define CORE_EXPORT _declspec(dllexport)
+#else
+#define CORE_EXPORT
+#endif
